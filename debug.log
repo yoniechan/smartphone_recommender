@@ -1,0 +1,49 @@
+[1115/122602.713:ERROR:directory_reader_win.cc(43)] FindFirstFile: 系統找不到指定的路徑。 (0x3)
+[1115/150318.556:ERROR:directory_reader_win.cc(43)] FindFirstFile: 系統找不到指定的路徑。 (0x3)
+[1117/143103.570:ERROR:directory_reader_win.cc(43)] FindFirstFile: 系統找不到指定的路徑。 (0x3)
+[1117/144733.172:ERROR:directory_reader_win.cc(43)] FindFirstFile: 系統找不到指定的路徑。 (0x3)
+[1119/103655.827:ERROR:directory_reader_win.cc(43)] FindFirstFile: 系統找不到指定的路徑。 (0x3)
+[1119/105155.790:ERROR:process_reader_win.cc(151)] SuspendThread: 存取被拒。 (0x5)
+[1119/105155.790:ERROR:exception_snapshot_win.cc(99)] thread ID 15468 not found in process
+[1119/130544.422:ERROR:process_info.cc(329)] VirtualQueryEx: 存取被拒。 (0x5)
+[1119/130544.424:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[1119/130544.424:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: 嘗試存取現有的處理程序。 (0xc000010a)
+[1119/134332.614:ERROR:process_info.cc(329)] VirtualQueryEx: 存取被拒。 (0x5)
+[1119/134332.615:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[1119/134332.615:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: 嘗試存取現有的處理程序。 (0xc000010a)
+[1119/150722.438:ERROR:directory_reader_win.cc(43)] FindFirstFile: 系統找不到指定的路徑。 (0x3)
+[1119/150937.055:ERROR:process_info.cc(329)] VirtualQueryEx: 存取被拒。 (0x5)
+[1119/150937.056:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[1119/150937.057:ERROR:process_memory_win.cc(39)] Failed to initialize ProcessInfo.
+[1119/150937.057:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: 嘗試存取現有的處理程序。 (0xc000010a)
+[1119/151120.994:ERROR:process_info.cc(329)] VirtualQueryEx: 存取被拒。 (0x5)
+[1119/151120.995:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[1119/151120.995:ERROR:process_memory_win.cc(39)] Failed to initialize ProcessInfo.
+[1119/151120.995:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: 嘗試存取現有的處理程序。 (0xc000010a)
+[1119/151726.193:ERROR:directory_reader_win.cc(43)] FindFirstFile: 系統找不到指定的路徑。 (0x3)
+[1119/153405.202:ERROR:process_reader_win.cc(151)] SuspendThread: 存取被拒。 (0x5)
+[1119/153405.203:ERROR:exception_snapshot_win.cc(99)] thread ID 29384 not found in process
+[1119/153405.203:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: 嘗試存取現有的處理程序。 (0xc000010a)
+[1119/153837.349:ERROR:process_info.cc(329)] VirtualQueryEx: 存取被拒。 (0x5)
+[1119/153837.349:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[1119/153837.349:ERROR:process_memory_win.cc(39)] Failed to initialize ProcessInfo.
+[1119/153837.349:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: 嘗試存取現有的處理程序。 (0xc000010a)
+[1119/161125.620:ERROR:directory_reader_win.cc(43)] FindFirstFile: 系統找不到指定的路徑。 (0x3)
+[1119/164549.510:ERROR:directory_reader_win.cc(43)] FindFirstFile: 系統找不到指定的路徑。 (0x3)
+[1119/180242.729:ERROR:process_reader_win.cc(151)] SuspendThread: 存取被拒。 (0x5)
+[1119/180242.729:ERROR:exception_snapshot_win.cc(99)] thread ID 2564 not found in process
+[1119/180242.730:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: 嘗試存取現有的處理程序。 (0xc000010a)
+[1123/094152.121:ERROR:directory_reader_win.cc(43)] FindFirstFile: 系統找不到指定的路徑。 (0x3)
+[1123/114543.867:ERROR:directory_reader_win.cc(43)] FindFirstFile: 系統找不到指定的路徑。 (0x3)
+[1123/160314.672:ERROR:directory_reader_win.cc(43)] FindFirstFile: 系統找不到指定的路徑。 (0x3)
+[1123/164744.091:ERROR:directory_reader_win.cc(43)] FindFirstFile: 系統找不到指定的路徑。 (0x3)
+[1123/172727.180:ERROR:directory_reader_win.cc(43)] FindFirstFile: 系統找不到指定的路徑。 (0x3)
+[1123/173819.193:ERROR:process_info.cc(329)] VirtualQueryEx: 存取被拒。 (0x5)
+[1123/173819.194:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[1123/173819.194:ERROR:process_memory_win.cc(39)] Failed to initialize ProcessInfo.
+[1123/173819.194:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: 嘗試存取現有的處理程序。 (0xc000010a)
+[1124/111656.021:ERROR:directory_reader_win.cc(43)] FindFirstFile: 系統找不到指定的路徑。 (0x3)
+[1124/113551.661:ERROR:directory_reader_win.cc(43)] FindFirstFile: 系統找不到指定的路徑。 (0x3)
+[1124/134735.618:ERROR:directory_reader_win.cc(43)] FindFirstFile: 系統找不到指定的路徑。 (0x3)
+[1124/140738.615:ERROR:directory_reader_win.cc(43)] FindFirstFile: 系統找不到指定的路徑。 (0x3)
+[1126/135832.344:ERROR:directory_reader_win.cc(43)] FindFirstFile: 系統找不到指定的路徑。 (0x3)
